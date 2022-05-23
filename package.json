@@ -46,6 +46,11 @@
       "limit": "10 KB"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lolo-vignolo/l-sell-card"
+  },
+  "homepage": "https://github.com/lolo-vignolo",
   "devDependencies": {
     "@rollup/plugin-image": "^2.1.1",
     "@size-limit/preset-small-lib": "^7.0.8",
@@ -60,5 +65,13 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "sell",
+    "lolo",
+    "vignolo",
+    "l-sell-card"
+  ]
 }
