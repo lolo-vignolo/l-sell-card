@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PoductTitle show the component correctly with default title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug
+  </span>
+</div>
+`;
+
+exports[`PoductTitle show the component correctly witht presonalized title 1`] = `
+<span
+  className="productDescription undefined"
+>
+  My title
+</span>
+`;

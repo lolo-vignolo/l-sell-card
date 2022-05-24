@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PoductTitle show the component correctly with default img 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product img"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`PoductTitle show the component correctly with default title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product img"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`PoductTitle show the component correctly witht img 1`] = `
+<img
+  alt="Product img"
+  className="productImg undefined"
+  src="./coffee-mug.png"
+/>
+`;
+
+exports[`PoductTitle show the component correctly witht presonalized title 1`] = `
+<img
+  alt="Product img"
+  className="productImg undefined"
+  src="./coffee-mug.png"
+/>
+`;

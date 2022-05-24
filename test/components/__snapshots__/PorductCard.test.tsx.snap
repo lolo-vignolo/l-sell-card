@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PoductTitle children se renderiza correctamente 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    gola mundo
+  </h1>
+</div>
+`;
+
+exports[`PoductTitle debe incremenat el contador 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    incrementar
+  </button>
+</div>
+`;
+
+exports[`PoductTitle show the component rendered correctly 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    gola mundo
+  </h1>
+</div>
+`;
